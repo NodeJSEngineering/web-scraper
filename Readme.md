@@ -66,10 +66,8 @@ Don't Forget to bookmark/star this repo.
 ko-fi.com/softwaredev
 
 ## Need help?
-For any Query Ping here- 
-https://bio.link/angulardev
 
-Feel free to contact me via [Twitter](https://twitter.com/Sunny_g001).
+Feel free to contact me via [Link](https://bio.link/angulardev).
 
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/learnangular2plus/) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Sunny-Gupta-208) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/angular_development/) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://eraoftech.medium.com/ )
 
@@ -112,7 +110,7 @@ ______      _               _   _               _
 
 **MIT &copy; [Sunny](https://github.com/NodeJSEngineering/web-scraper/blob/master/LICENSE)**
 
-[![GitHub license](https://img.shields.io/github/license/NodeJSEngineering/web-scraper?style=social&logo=github)](https://github.com/NodeJSEngineering/web-scraper/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/Sunny_g001?style=social)](#)
+[![GitHub license](https://img.shields.io/github/license/NodeJSEngineering/web-scraper?style=social&logo=github)](https://github.com/NodeJSEngineering/web-scraper/blob/master/LICENSE)
 
 ---------
 
