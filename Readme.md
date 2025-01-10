@@ -26,7 +26,7 @@ web scraper
 - 
 
 ## Useful Links
-- [crypto](http://localhost:5000/api/crypto)
+- [crypto](localhost:5000/api/crypto)
 - [server](http://localhost:3000/)
 
 ## Subscribe and Stay Updated!
