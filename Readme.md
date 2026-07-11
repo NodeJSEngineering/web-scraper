@@ -21,6 +21,13 @@ I'm Sam, and I'm passionate about product engineering and web development. I cre
 
 ### About the app
 web scraper
+superagent
+puppeteer
+playwright
+nightmare
+cheerio
+
+https://github.com/NodeJSEngineering/job-board
 
 ### useful commands to run project
 - 
