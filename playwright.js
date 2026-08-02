@@ -5,7 +5,10 @@ async function main() {
     });
 
     const page = await browser.newPage();
-    await page.goto('https://finance.yahoo.com/world-indices');
+    await page.goto('https://finance.yahoo.com/world-indices', { 
+        waitUntil: 'domcontentloaded',
+        timeout: 60000 
+    });
     await page.waitForTimeout(5000); // wait for 5 seconds
     await browser.close();
 }
